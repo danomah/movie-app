@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Initial workflow in [Kanban Board] (https://github.com/danomah/movie-app/projects/1)
+
 ## Available Scripts
 
 In the project directory, you can run:
